@@ -1,4 +1,5 @@
 Integração Python + Pandas + SQLite
+
 📌 Sobre o Projeto
 
 Este projeto demonstra como integrar Python (Pandas) com SQLite para análise e manipulação de dados.
